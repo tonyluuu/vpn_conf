@@ -1,0 +1,7 @@
+{
+  "rules": [
+    "PROCESS-NAME,^Cursor$,PROXY",
+    "PROCESS-NAME,Cursor.exe,PROXY",
+    "FINAL,DIRECT"
+  ]
+}
